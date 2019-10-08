@@ -1,0 +1,19 @@
+{
+  "name": "introduzionenode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucatedesco80/introduzionenode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucatedesco80/introduzionenode/issues"
+  },
+  "homepage": "https://github.com/lucatedesco80/introduzionenode#readme"
+}
