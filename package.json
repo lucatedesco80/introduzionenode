@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lucatedesco80/introduzionenode/issues"
   },
-  "homepage": "https://github.com/lucatedesco80/introduzionenode#readme"
+  "homepage": "https://github.com/lucatedesco80/introduzionenode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
